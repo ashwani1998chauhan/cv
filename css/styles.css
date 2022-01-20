@@ -1,0 +1,46 @@
+body {
+  background-color: #FFEFEF;
+}
+
+hr {
+  background-color: #FFEFEF;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+  width: 5%;
+}
+
+h1 {
+  color: #7C99AC;
+}
+
+h2 {
+  color: #7C99AC;
+}
+
+h3 {
+  color: #7C99AC;
+}
+
+/*************************************************Tag Selectors**********************************/
+
+h1:hover
+{
+  color: #FF1700;
+}
+
+h2:hover
+{
+  color: #FF1700;
+}
+
+h3:hover
+{
+  color: #FF1700;
+}
+
+img:hover
+{
+  background-color: #F3C5C5;
+}
